@@ -13,6 +13,12 @@ A aplicação consiste em um site onde aparecem diversos filmes filtrados atrav�
 ## Linguagem de programção
 - JavaScript / CSS - HTML
 
+# Como executar o projeto
+
+## VsCode
+Pode ir direto pelo terminal no VsCode e colocar o comando = npm run dev.
+Logo em seguida vai aparecer o link no formato: localhost:5173/
+
 
 # Autor
 
